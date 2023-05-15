@@ -1,5 +1,5 @@
 # HenHacks2023
-This is the code for the HenHack I me and my group made for the project. Had it linked to my old GitHub so just moving it over.
+This is the code for the HenHack my group and I made for the project. Were we had 24hrs to complete the prompt lsited below. My contribution was full stack development of the project. Had it linked to my old GitHub so just moving it over.
 
 
 Welcome! This is our henhacks (https://www.henhackshackathon.com/home) hackathon 2023 project.
