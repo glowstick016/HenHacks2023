@@ -1,0 +1,4 @@
+A: clone github.com/Babbage/machine : 0 : Incorrect, needs git before clone :
+B: git copy github.com/Babbage/machine : 0 : Incorrect, copy is not a git command :
+C: git clone github.com/Babbage/machine : 1 : Correct, creates a dir machine with the repo :
+D: git fork github.com/Babbage/machine : 0 : Incorrect, fork is a different git feature :
